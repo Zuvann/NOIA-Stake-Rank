@@ -9,3 +9,5 @@
 4). Data is then outputted into the output CSV file which can then be sorted in excel by rank.
 
 NOTE: This project requires the requests and web3 python modules.
+
+Pardon my coding skills -- I haven't touched python in 3 years...
