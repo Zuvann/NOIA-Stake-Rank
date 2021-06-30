@@ -4,7 +4,7 @@
 
 2). Open the file in excel and sort by balance and delete any entries with balances under the 20k minimum stake.
 
-3). Place the file in same directory as python file and run the file.
+3). Place the file in the same directory as python file and run the file.
 
 4). Data is then outputted into the output CSV file which can then be sorted in excel by rank.
 
