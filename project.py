@@ -15,9 +15,10 @@ with open('output.csv', 'w', newline='') as csvfile:
     writer.writeheader()
     for row in csv_f:
         try:
-            r = requests.get(url+Web3.toChecksumAddress(row[0]))
+            address=Web3.toChecksumAddress(row[0])
+            r = requests.get(url+address)
             get_stake = literal_eval(r.text)
-            get_stake["data"]["sum_earned"] = row[0]
+            get_stake["data"]["sum_earned"] = address
             writer.writerow(get_stake["data"])
         except:
             pass
