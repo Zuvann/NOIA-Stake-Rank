@@ -8,6 +8,6 @@
 
 4). Data is then outputted into the output CSV file which can then be sorted in excel by rank.
 
-NOTE: This project requires the requests and web3 python modules.
+NOTE: This project requires the requests and web3 python modules (open Command Prompt and use the following commands after installing python 3.6 or greater: pip install requests, pip install web3).
 
 Pardon my coding skills -- I haven't touched python in 3 years...
