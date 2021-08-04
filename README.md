@@ -4,7 +4,7 @@
 
 2). Open the file in excel and sort by balance and delete any entries with balances under the 20k minimum stake.
 
-3). Place the file in the same directory as python file and run the file. It will take 5-10 minutes to complete.
+3). Place the file in the same directory as python file and run the file in IDLE. It will take 5-10 minutes to complete.
 
 4). Data is then outputted into the output CSV file which can then be sorted in excel by rank.
 
