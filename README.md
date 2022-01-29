@@ -6,4 +6,4 @@ NOTE: This project requires the requests and web3 python modules (open Command P
 
 2). Place the file in the same directory as python file and run the file in IDLE. It will take 10-20 minutes to complete.
 
-4). Data is then outputted into the output CSV file which can then be sorted in excel by rank.
+3). Data is then outputted into the output CSV file which can then be sorted in excel by rank.
